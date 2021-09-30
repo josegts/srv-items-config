@@ -1,0 +1,4 @@
+server:
+  port: 5006
+configuracion:
+  texto: configurando entorno de produccion

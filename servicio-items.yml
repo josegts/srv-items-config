@@ -1,4 +1,4 @@
 server:
   port: 8005
 configuracion:
-  texto: configurando entorno dev
+  texto: configurando entorno principal
