@@ -1,0 +1,8 @@
+config:
+  security:
+    oauth:
+      client:
+        id: client-react-app
+        secret: 12345
+      jwt:
+        key: secret_123_abc
