@@ -5,4 +5,4 @@ config:
         id: client-react-app
         secret: 12345
       jwt:
-        key: secret_123_abc
+        key: $Ecr3t-1d3e31212ds-AzF-$$$pe-1wwe2e4r
