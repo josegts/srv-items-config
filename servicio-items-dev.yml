@@ -1,3 +1,5 @@
+server:
+  port: 5002
 configuracion:
   texto: configurando entorno dev mod
   autor:
